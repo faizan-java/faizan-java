@@ -14,7 +14,7 @@ Currently working with **Java, Spring Boot, React, PostgreSQL**, and strengtheni
 
 ## About Me
 
-* 🎓 Computer Science & Engineering (AIML) student
+* 🎓 Computer Science & Engineering (AIML) student.
 * 💻 Interested in **Java Backend, Full-Stack Web Development & AI/ML**
 * 🧠 Practicing **DSA and competitive problem solving in Java**
 * ⚙️ Building backend applications using **Java & Spring Boot**
