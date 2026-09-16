@@ -1,6 +1,6 @@
 # Hi, I'm Faizan Akhtar
 
-### CSE (AIML) Student | Java Backend & Web Developer | Open Source Contributor
+### CSE (AIML) Student | Java Backend & Web Developer | Open Source Contributor.
 
 I’m a Computer Science student focused on building reliable software, solving problems with **Data Structures & Algorithms**, and developing web applications with modern technologies.
 
